@@ -1,5 +1,5 @@
 
-
+function questionGame(){
 
 var num_correct = 0
 
@@ -40,7 +40,7 @@ if (guess === "yes" || guess === "YES" || guess === "y" || guess === "Y")
 else {
 alert("you are wrong")
 }
-
+}
 
 
 alert("Great job " + num_correct + "/3 is your final score")
