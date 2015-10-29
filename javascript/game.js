@@ -1,3 +1,6 @@
+
+
+
 var num_correct = 0
 
 var guess = prompt("Is Barack Obama the 44th president of the U.S.? yes or no?");
